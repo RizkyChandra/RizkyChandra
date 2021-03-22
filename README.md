@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RizkyChandra
+- 👀 I’m interested in UI DESIGN & SOFTWARE ENGINEERING
+- 🌱 I’m currently learning in Amikom University Indonesia
+- 💞️ I’m looking to collaborate on Next JS project :)
+- 📫 How to reach me >>> Ridusaladaris@gmail.com
